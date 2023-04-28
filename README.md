@@ -1,2 +1,2 @@
 # IntroCompNumerica
-Disciplina Introdução à Computação Numérica - UFRJ
+Disciplina de Introdução à Computação Numérica - UFRJ
